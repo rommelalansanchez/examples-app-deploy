@@ -1,0 +1,22 @@
+﻿@page "/"
+@inject IConfiguration Config
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, this is an example of a blazor app!</h1>
+
+Welcome to your new app.
+
+<p>This is the configured message: @message</p>
+<div style="color: red; font-family:Arial; font-size:14px">And this is the connection string: @connectionString</div>
+
+@code{
+    private string message = "";
+    private string connectionString = "";
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        message = "Message changed by the user";
+
+    }
+}
