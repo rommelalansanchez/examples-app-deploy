@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G6HIB19h98mcdqiebNo0PYwhIMk1b/22E4AkMF6fXYjmTaD1Qs2idwUanidLowPdc4LKRoGRhBQ6SAtdfn9N1Q==",
+  "dgSpecHash": "HxDkDm3VN5aUhf//xL8a+10Oit80JQLuWnV8lIEkVrnENJ34umtZurONcDm4hcqIJggQIvE8qL/YOakF2LKfPA==",
   "success": true,
   "projectFilePath": "C:\\repos\\training\\blazor-training\\examples-app-deploy\\BlazorServerApp1\\BlazorServerApp1.csproj",
   "expectedPackageFiles": [],
